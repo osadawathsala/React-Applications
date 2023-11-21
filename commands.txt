@@ -1,0 +1,1 @@
+npm create vite@latest birthday-buddy -- --template react
