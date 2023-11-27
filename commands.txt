@@ -1,1 +1,31 @@
 npm create vite@latest birthday-buddy -- --template react
+npm create vite@latest tours -- --template react
+
+npm create vite@latest reviews -- --template react
+
+npm create vite@latest accordion -- --template react
+
+npm create vite@latest menu -- --template react
+
+npm create vite@latest tabs -- --template react
+
+npm create vite@latest slider -- --template react
+
+npm create vite@latest lorem-ipsum -- --template react
+
+npm create vite@latest color-generator -- --template react
+
+npm create vite@latest grocery-bud -- --template react
+
+npm create vite@latest navbar -- --template react
+
+
+npm create vite@latest sidebar -- --template react
+
+npm create vite@latest strapi-submenus -- --template react
+
+npm create vite@latest cart -- --template react
+
+npm create vite@latest axios-tutorial -- --template react
+
+
