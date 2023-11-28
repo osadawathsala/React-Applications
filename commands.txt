@@ -28,4 +28,8 @@ npm create vite@latest cart -- --template react
 
 npm create vite@latest axios-tutorial -- --template react
 
+npm create vite@latest client -- --template react
+
+npm create vite@latest unsplash-images -- --template react
+
 
