@@ -32,4 +32,16 @@ npm create vite@latest client -- --template react
 
 npm create vite@latest unsplash-images -- --template react
 
+npm create vite@latest contentful-cms -- --template react
 
+npm create vite@latest mixmaster -- --template react
+
+npm create vite@latest tailwind-portfolio -- --template react
+
+
+npm create vite@latest my-project -- --template react
+
+npm create vite@latest redux-toolkit-tutorial -- --template react
+
+
+npm create vite@latest comfy-storel -- --template react
